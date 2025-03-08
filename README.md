@@ -9,7 +9,7 @@
 
 </div>
 
-An open-source solution for full parameter fine-tuning of DeepSeek-V3/R1 671B, including complete code and scripts from training to inference, as well as some practical experiences and conclusions, jointly launched by Institute of Automation, Chinese Academy of Sciences and Beijing Wenge Technology Co. Ltd.
+An open-source solution for full parameter fine-tuning of DeepSeek-V3/R1 671B, including complete code and scripts from training to inference, as well as some practical experiences and conclusions, jointly launched by the Institute of Automation of the Chinese Academy of Sciences and Beijing Wenge Technology Co. Ltd.
 
 ## 🌟 Project Highlights
 - Implemented modeling files containing DeepSeek-V3/R1 training logic (see `./model`, code logic completed based on Deepseek-V3 paper and Deepseek-V2 modeling files);
