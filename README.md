@@ -74,7 +74,7 @@ To clearly show the data storage format, we provide a sample file of the convert
 
 During actual training, the program will automatically convert to the following format according to the Deepseek V3/R1 training template, here for display only:
 ```
-<|begin▁of▁sentence|>You are a helpful assistant.<|User|>User question<|Assistant|><think>\nReasoning process\n</think>\n\nFinal answer<|end▁of▁sentence|>
+<｜begin▁of▁sentence｜>You are a helpful assistant.<｜User｜>User question<｜Assistant｜><think>\nReasoning process\n</think>\n\nFinal answer<｜end▁of▁sentence｜>
 ```
 
 ### 4. Start Training
@@ -177,5 +177,5 @@ After a while, if the terminal outputs the expected response, it means that the 
 ## 🔍 License
 This project is licensed under the Apache-2.0 License.
 
-## Star History
+## ⭐ Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=ScienceOne-AI/DeepSeek-671B-SFT-Guide&type=Date)](https://star-history.com/#ScienceOne-AI/DeepSeek-671B-SFT-Guide&Date)

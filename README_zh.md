@@ -183,5 +183,5 @@ curl -X POST http://node0:8000/v1/chat/completions -d '{"model": "deepseek-r1-sf
 ## 🔍 License
 本项目采用 Apache-2.0 License 开源协议。
 
-## Star History
+## ⭐ Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=ScienceOne-AI/DeepSeek-671B-SFT-Guide&type=Date)](https://star-history.com/#ScienceOne-AI/DeepSeek-671B-SFT-Guide&Date)
