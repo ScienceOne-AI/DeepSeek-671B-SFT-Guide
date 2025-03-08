@@ -9,7 +9,7 @@
 
 </div>
 
-DeepSeek-V3/R1 满血版 671B 全参数微调的开源解决方案，包含从训练到推理的完整代码和脚本，以及实践中积累一些经验和结论。
+DeepSeek-V3/R1 满血版 671B 全参数微调的开源解决方案，包含从训练到推理的完整代码和脚本，以及实践中积累一些经验和结论，由中国科学院自动化研究所和中科闻歌联合推出。
 
 ## 🌟 项目亮点
 - 实现了包含 DeepSeek-V3/R1 训练逻辑的 modeling 文件（详见 `./model`，根据 Deepseek-V3 论文并结合 Deepseek-V2 的 modeling 文件进行代码逻辑补全）；
@@ -184,4 +184,8 @@ curl -X POST http://node0:8000/v1/chat/completions -d '{"model": "deepseek-r1-sf
 本项目采用 Apache-2.0 License 开源协议。
 
 ## ⭐ Star History
+<<<<<<< HEAD
 [![Star History Chart](https://api.star-history.com/svg?repos=ScienceOne-AI/DeepSeek-671B-SFT-Guide&type=Date)](https://star-history.com/#ScienceOne-AI/DeepSeek-671B-SFT-Guide&Date)
+=======
+[![Star History Chart](https://api.star-history.com/svg?repos=ScienceOne-AI/DeepSeek-671B-SFT-Guide&type=Date)](https://star-history.com/#ScienceOne-AI/DeepSeek-671B-SFT-Guide&Date)
+>>>>>>> origin/main
