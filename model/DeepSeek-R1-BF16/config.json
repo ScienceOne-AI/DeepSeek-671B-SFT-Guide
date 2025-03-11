@@ -55,8 +55,7 @@
   "topk_group": 4,
   "topk_method": "noaux_tc",
   "torch_dtype": "bfloat16",
-  "transformers_version": "4.48.1",
-  "unsloth_fixed": true,
+  "transformers_version": "4.46.3",
   "use_cache": true,
   "v_head_dim": 128,
   "vocab_size": 129280
