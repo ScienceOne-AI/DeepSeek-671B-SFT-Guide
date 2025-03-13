@@ -65,6 +65,7 @@ def parse_args():
 
 def main():
     args = parse_args()
+    torch.distributed.init_process_group(backend='nccl', rank=0, world_size=1)
 
     # parse config
     if not osp.isfile(args.config):
