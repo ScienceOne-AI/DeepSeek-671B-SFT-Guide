@@ -1,4 +1,4 @@
-# DeepSeek-V3/R1-617B 全参数微调指南
+# DeepSeek-V3/R1-671B 全参数微调指南
 
 <div align="center" style="line-height: 1;">
 

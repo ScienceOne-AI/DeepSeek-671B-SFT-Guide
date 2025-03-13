@@ -1,4 +1,4 @@
-# DeepSeek-V3/R1-617B Full Parameter Fine-Tuning Guide
+# DeepSeek-V3/R1-671B Full Parameter Fine-Tuning Guide
 
 <div align="center" style="line-height: 1;">
 
